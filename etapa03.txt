@@ -1,0 +1,2 @@
+NOME: Alessandra Azevedo Silva.
+MENSAGEM: Uma tabela de banco de dados é formada por linhas e colunas.
